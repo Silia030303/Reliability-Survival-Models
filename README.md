@@ -1,8 +1,8 @@
 # Reliability and Survival Models
 
-SurvivalAnalysisR_1:
+SurvivalAnalysisR_1: Project 1
 
 
-SurvivalAnalysisR_2:
+SurvivalAnalysisR_2: Project 2 
 
 
